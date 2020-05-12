@@ -1,0 +1,6 @@
+name: Test-python
+channels:
+  - conda-forge
+dependencies:
+  - python
+  
